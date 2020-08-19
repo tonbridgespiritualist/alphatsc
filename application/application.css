@@ -4,11 +4,22 @@
   -moz-osx-font-smoothing: grayscale;
 }
 .gem-start-label {
-  font-size: 14px;
-  font-family: "Interstate", Arial, sans-serif;
-  margin-top: -10px;
+    color: #0b0c0c;
+    font-family: "nta", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.1428571429;
+    display: block;
+    max-width: 14em;
+    margin-top: .5em;
 }
-
+@media (min-width: 40.0625em)
+.gem-start-label {
+    font-size: 16px;
+    line-height: 1.25;
+}
 @import url("https://p.typekit.net/p.css?s=1&k=ijf0nsq&ht=tk&f=31141.31142.31145.31146.31154.31156.31162.31163.31166.31167&a=44100770&app=typekit&e=css");
 
 @font-face {
