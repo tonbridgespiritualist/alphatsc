@@ -13,7 +13,7 @@
     line-height: 1.1428571429;
     display: block;
     max-width: 14em;
-    margin-top: -30px;
+    margin-top: .5em;
 }
 @media (min-width: 40.0625em)
 .gem-start-label {
