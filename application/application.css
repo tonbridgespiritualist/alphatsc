@@ -14,11 +14,13 @@
     display: block;
     max-width: 14em;
     margin-top: .5em;
+  margin-bottom: 10px
 }
 @media (min-width: 40.0625em)
 .gem-start-label {
     font-size: 16px;
     line-height: 1.25;
+  margin-bottom: 32px;
 }
 @import url("https://p.typekit.net/p.css?s=1&k=ijf0nsq&ht=tk&f=31141.31142.31145.31146.31154.31156.31162.31163.31166.31167&a=44100770&app=typekit&e=css");
 
