@@ -1,15 +1,10 @@
-.tsc-header__container_special1 {
-    position: relative;
-    margin-bottom: -10px;
-    padding-top: 10px;
-    border-bottom: 10px solid #F10FBC;
-}
+
 .covid-header {
 	background-color: #0F4BF1;
 	color: #fff;
 	padding-top: 10px;
 	padding-bottom: 30px;
-	border-top: 12px solid #F10FBC;
+	border-top: 12px solid #6DA299;
 }
 
 .covid-dark {
