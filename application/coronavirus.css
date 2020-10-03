@@ -1,4 +1,7 @@
-
+.covid-box {
+	border: 10px solid #f1b50f;
+	padding: 5px
+}
 .covid-header {
 	background-color: #0F4BF1;
 	color: #fff;
