@@ -20,7 +20,7 @@
 	padding: 25px 0;
 }
 .covid-list {
-padding-left: 30px;
+padding-left: -30px;
 }
 .covid-list__item {
     font-family: "Interstate", Arial, sans-serif;
