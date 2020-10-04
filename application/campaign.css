@@ -1,12 +1,14 @@
 .topbar-icon {
 	width: 20px;
 	vertical-align: middle;
+	padding-right: 30px;
 }
 
 @media (min-width: 40.0625em) {
 .topbar-icon {
 	width: 50px;
 	vertical-align: middle;
+	padding-right: 30px;
 	}
 }
 
