@@ -2,9 +2,10 @@
 color: white;
 }
 .tsc-header__container2 {
-border-bottom: 0px;
+border-bottom: 3px solid #FF003B;
 padding-bottom: 10px;
 margin-bottom: -10px;
+
 }
 
 .tsc-header__special {
