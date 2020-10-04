@@ -19,6 +19,11 @@ color: white;
     position: relative;
     margin-bottom: -10px;
     padding-top: 10px;
+}
+.tsc-header__container2 {
+    position: relative;
+    margin-bottom: -10px;
+    padding-top: 10px;
     padding-bottom: 51px;
 }
 
