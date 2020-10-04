@@ -1,3 +1,15 @@
+.topbar-icon {
+	width: 20px;
+	vertical-align: middle;
+}
+
+@media (min-width: 40.0625em) {
+.topbar-icon {
+	width: 50px;
+	vertical-align: middle;
+	}
+}
+
 .white-list {
 color: white;
 }
