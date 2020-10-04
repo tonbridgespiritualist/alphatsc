@@ -19,6 +19,7 @@ color: white;
     position: relative;
     margin-bottom: -10px;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 @media (min-width: 40.0625em) {
 .tsc-header__container2 {
