@@ -69,3 +69,33 @@ display: block;
   margin-right: auto;
 }
 }
+
+.full-width #wrapper {
+width:auto;
+max-width:100%;
+margin:0;
+}
+
+.full-width #global-header-bar {
+display:none;
+}
+
+.full-page-width-wrapper {
+max-width:960px;
+margin-right:15px;
+margin-left:15px;
+}
+
+@media min-width 400625em{
+.full-page-width-wrapper {
+margin-right:30px;
+margin-left:30px;
+}
+}
+
+@media min-width 1020px{
+.full-page-width-wrapper {
+margin-right:auto;
+margin-left:auto;
+}
+}
