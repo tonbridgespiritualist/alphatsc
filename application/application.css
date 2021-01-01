@@ -3,6 +3,17 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+  code {
+    font-size: 16px;
+    position: relative;
+    margin: 0;
+    padding: 15px;
+    overflow: auto;
+    border: 1px solid #b1b4b6;
+    background-color: #f3f2f1;
+    max-width: 38em;
+    margin-bottom: 15px;
+}
 .gem-start-label {
     color: #0b0c0c;
     font-family: "Interstate", Arial, sans-serif;
