@@ -3917,11 +3917,11 @@ padding-bottom: 20px;
 }
 
 .tsc-header__navigation-item--active a:link, .tsc-header__navigation-item--active a:hover, .tsc-header__navigation-item--active a:visited {
-  color: #1d8feb;
+  color: #a38f96;
 }
 
 .tsc-header__navigation-item--active a:focus {
-  color: #0b0c0c;
+  color: #a38f96;
 }
 
 .tsc-header__navigation-item:last-child {
