@@ -100,7 +100,7 @@ padding-top:20px;
 .home-heading {
 font-size: 22px;
 font-weight:bold;
-padding-top:20px;
+margin-top:20px;
 }
 .home-body {
 font-size: 20px;
@@ -128,9 +128,11 @@ margin-top: -10px;
 }
 
 .home-img {
-padding-top:20px;
-padding-left: 16px;
-width: 200px;
+display:block;
+height:auto;
+margin-bottom:20px;
+margin-top:20px;
+max-width:100%
 }
 
 @media (min-width: 40.0625em) {
