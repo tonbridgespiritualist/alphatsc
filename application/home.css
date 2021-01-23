@@ -11,14 +11,7 @@
 
 @media (min-width: 40.0625em) {
 .home-top__title {
-    font-family: "Interstate", Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    font-weight: 700;
-    font-size: 32px;
-    padding: 25px 0 15px;
-    line-height: 5px;
-    margin-bottom: 3px;
+    line-height: 5px!important;
 }
 }
 
