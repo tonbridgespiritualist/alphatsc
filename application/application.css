@@ -3368,20 +3368,12 @@ padding-bottom: 20px;
 .tsc-footer__copyright-logo {
   display: inline-block;
   min-width: 125px;
-  padding-top: 112px;
-  background-image: url("/tsc/assets/images/tsc-crest.png");
   background-repeat: no-repeat;
   background-position: 50% 0%;
   background-size: 125px 102px;
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
-}
-
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
-  .tsc-footer__copyright-logo {
-    background-image: url("/tsc/assets/images/tsc-crest-2x.png");
-  }
 }
 
 .tsc-footer__inline-list {
